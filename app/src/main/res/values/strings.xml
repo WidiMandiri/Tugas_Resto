@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Tugas Resto</string>
+    <string name="app_description">Android Studio adalah Integrated Development Environment (IDE) resmi yang digunakan oleh pengembang untuk membuat aplikasi Android. Ini merupakan alat yang sangat populer dan digunakan secara luas dalam industri pengembangan aplikasi Android</string>
+
+    <string name="nama">Widi Malikul Mulky</string>
+    <string name="nim">10120064</string>
+    <string name="kelas">IF2</string>
+    <string name="email">widimalikul0329@gmail.com</string>
+
+    <string name="title1">Fresh Food</string>
+    <string name="title2">Fast Delivery</string>
+    <string name="title3">Easy Payment</string>
+    <string name="desc1">Fresh food refers to food items that are minimally processed, have not undergone significant preservation methods, and are consumed in their natural state or shortly after harvest. Here are some key points about fresh food</string>
+    <string name="desc2">Fast Delivery refers to a delivery service that offers fast delivery of goods. This service aims to deliver goods to customers in the shortest time possible, often within hours or days, depending on the distance and location of delivery destination</string>
+    <string name="desc3">Easy Payment refers to payment methods designed to make the payment process easier and more convenient for users. This involves using technology and innovation to remove or minimize barriers to traditional payment processes</string>
+
+    <string name="google_maps_api_key">AIzaSyAXt_Y6fp4tWobUbmjRYb9PrGxqeCcuKjI</string>
+</resources>
